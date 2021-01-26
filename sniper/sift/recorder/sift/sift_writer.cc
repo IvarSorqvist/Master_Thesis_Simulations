@@ -1,0 +1,1 @@
+/home/ivar/Documents/Master_Thesis/sniper/sift/recorder/../../sift/sift_writer.cc
